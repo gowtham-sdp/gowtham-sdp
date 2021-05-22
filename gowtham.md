@@ -36,7 +36,7 @@ SODANAPALLI GOWTHAM REDDY
      </tr>
    <tr valign="top">  
    <td  width="25%" align="center">
- <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+ <code> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
      </td>  
    </tr>
   </tbody>
