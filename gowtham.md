@@ -16,7 +16,7 @@ SODANAPALLI GOWTHAM REDDY
 
 
 > -👨‍🎓 I’m currently persuing <strong>BSc (Research) in Cloud Computing & Big Data</strong>
-> - 📖 I’m also Additionally learning <strong>Data Analysis Using R </strong>
+> - 📖 I’m also Additionally learning <strong>Data science and other programming languages </strong>
 > - 🔍 I’m looking to work with companies that will use the knowledge I have in <strong>Cloud Computing & Data Analysis and other technologies i have learnt</strong>
 > - 💬 Ask me about <strong>Cloud Computing,AWS,python,c++,java,MYsql</strong>
 > - ⚡ During my free time I am Interested in <strong> Playing cricket, Listening music, Watching Movies & WebSeries </strong>
